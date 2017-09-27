@@ -6,7 +6,7 @@ To do this, we need to find the optimal placement for their street teams who wil
 
 1. `project_benson.ipynb` contains the code for the analysis.  
 2. `project_benson.pdf` contains the slides used for our presentation.
-3. zhvi.csv contains Zillow housing price values included in the analysis 
+3. `zhvi.csv` contains Zillow housing price values included in the analysis 
 4. This is my [blog post](https://ericchan24.squarespace.com/mta-data/)
 
 
