@@ -1,4 +1,4 @@
-WomenTechWomenYes is a philantropic organization that asked us for help with two tasks:   
+WomenTechWomenYes is a philanthropic organization that asked us for help with two tasks:   
 1. Increasing the participation of women in technology  
 2. Building awareness and reach by attracting gala attendees.  
 
